@@ -19,7 +19,6 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/ourwork" element={<OurWork />} />
         <Route path="/services" element={<Services/>} />
-        {/* <Route path="/ourwork" element={<div>Our Work Page</div>} /> */}
         <Route path="/contact" element={<Contact/>} />
         <Route path="/terms" element={<TermsConditions />} />
         <Route path="/privacy" element={<PrivacyPolicy />} />
